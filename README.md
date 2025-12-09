@@ -4,7 +4,6 @@
 Welcome to my personal portfolio website repository!  
 This website highlights my projects, skills, and achievements in technology 🚀  
 
-🔗 **Live Portfolio:** https://kapil6996.github.io  
 🐙 **GitHub Profile:** https://github.com/Kapil6996  
 
 ---
